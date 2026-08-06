@@ -14,3 +14,18 @@
   <img src="https://img.shields.io/badge/VTK-2C3E50?style=for-the-badge" alt="VTK" />
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
 </p>
+
+## GitHub Stats
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhavd2602&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
+
+## Let Us Connect
+
+<p align="center">
+  <a href="mailto:vaibhav.123456dubey@gmail.com"><img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav2602/"><img src="https://img.shields.io/badge/Let%27s%20Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect" /></a>
+  <a href="https://github.com/vaibhavd2602/"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+<!-- profile-refresh: 2026-04-16-colorful -->
