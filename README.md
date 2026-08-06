@@ -20,6 +20,13 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhavd2602&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
+# Certifications
+
+- Joy of Computing Using Python - `NPTEL`
+- Data Analyst Job Simulation - `Deloitte Forage`
+- Cybersecurity Analyst Job Simulation - `Forage`
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate - `Oracle`
+
 ## Let Us Connect
 
 <p align="center">
