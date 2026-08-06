@@ -84,9 +84,6 @@ Right now, I am focused on machine learning, NLP, forecasting, recommendation sy
   <a href="https://github.com/vaibhavd2602/"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </p>
 
-
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vaibhavd2602/Vaibhavd2602/output/snake.svg" alt="Snake animation" />
 </p>
