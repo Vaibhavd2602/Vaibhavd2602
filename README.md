@@ -21,6 +21,23 @@ I am a Computer Science undergraduate specializing in Artificial Intelligence at
 Right now, I am focused on machine learning, NLP, forecasting, recommendation systems, DSA, Generative AI and Deep Learning.
 
 
+##  What I'm Working On
+
+-  Developing AI & Machine Learning solutions for real-world problems.
+-  Solving DSA problems to strengthen coding and algorithmic thinking.
+-  Working on Data Analytics and AI-powered applications.
+-  Learning new AI frameworks and modern development tools.
+-  Contributing to projects and continuously improving my skills.
+
+## 🚀 Featured Projects
+
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| **[AI Resume Screening](https://github.com/Vaibhavd2602/AI-Resume-Screening)** | AI-powered resume screening and job recommendation system using Machine Learning. | `Python` `Streamlit` `Scikit-learn` `Pandas` |
+| **[AI Attendance System](https://github.com/Vaibhavd2602/AI-Attendance-System-using-Face-Voice-Recognition)** | Smart attendance system using face and voice recognition with AI. | `Python` `OpenCV` `Face Recognition` `Speech Recognition` |
+| **[Fake News Detection](https://github.com/Vaibhavd2602/Fake-News-Detection)** | Detects fake news articles using NLP and Machine Learning techniques. | `Python` `NLP` `Scikit-learn` `Pandas` |
+| **[DSA Practice Repository](https://github.com/Vaibhavd2602/DSA_Leetcode)** | Collection of LeetCode and interview coding problems with optimized solutions. | `C++` `DSA` `Algorithms` |
+
 ## GitHub Stats
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhavd2602&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
