@@ -1,4 +1,24 @@
 <p align="center">
+  <a href="https://github.com/Vaibhavd2602">
+    <img src="https://img.shields.io/badge/GitHub-Vaibhav%20Dubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/Vaibhav202">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vaibhav.123456dubey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vaibhav.123456dubey@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20Engineering-3B82F6?style=flat-square&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Kanpur,%20India-06B6D4?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20DSA-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,django,mysql,sqlite,tensorflow,git,github,vscode" alt="Skill icons" />
 </p>
 
