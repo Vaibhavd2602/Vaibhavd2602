@@ -1,4 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:B85C5C,25:C58A45,50:8FA36A,75:2E9CB0,100:402080&text=Vaibhav%20Dubey&fontColor=FFFFFF&fontSize=42&fontAlignX=50&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Generative%20AI%20-%20LLMs%20-%20DSA%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Building+AI%2FML+projects+with+real-world+impact;Exploring+Generative+AI%2C+LLMs%2C+and+Machine+Learning;Developing+Full+Stack+applications+with+modern+technologies;Solving+DSA+problems+and+improving+problem-solving+skills" alt="Typing intro" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Vaibhavd2602">
     <img src="https://img.shields.io/badge/GitHub-Vaibhav%20Dubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
