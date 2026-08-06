@@ -8,7 +8,7 @@
   <a href="https://github.com/Vaibhavd2602">
     <img src="https://img.shields.io/badge/GitHub-Vaibhav%20Dubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/Vaibhav202">
+  <a href="https://linkedin.com/in/vaibhav2602">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vaibhav.123456dubey@gmail.com">
