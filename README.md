@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:B85C5C,25:C58A45,50:8FA36A,75:2E9CB0,100:402080&text=Vaibhav%20Dubey&fontColor=FFFFFF&fontSize=42&fontAlignX=50&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Generative%20AI%20-%20LLMs%20-%20DSA%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" />
 <p align="center">
   <a href="https://github.com/Vaibhavd2602">
     <img src="https://img.shields.io/badge/GitHub-Vaibhav%20Dubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
