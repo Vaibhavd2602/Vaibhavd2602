@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/VTK-2C3E50?style=for-the-badge" alt="VTK" />
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
 </p>
+## About Me
+
+I am a Computer Science undergraduate specializing in Artificial Intelligence at Maharana Pratap Engineering College. I enjoy building practical machine learning systems, data-driven applications, and full-stack products that solve meaningful problems in a simple way.
+
+Right now, I am focused on machine learning, NLP, forecasting, recommendation systems, DSA, Generative AI and Deep Learning.
+
 
 ## GitHub Stats
 <p align="center">
