@@ -60,7 +60,7 @@ Right now, I am focused on machine learning, NLP, forecasting, recommendation sy
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
-| **[AI Resume Screening And Job Recommendation System]((https://ai-resume-job-system.streamlit.app/))** | AI-powered resume screening and job recommendation system using Machine Learning. | `Python` `Streamlit` `Scikit-learn` `Pandas` |
+| **[AI Resume Screening And Job Recommendation System](https://ai-resume-job-system.streamlit.app/)** | AI-powered resume screening and job recommendation system using Machine Learning. | `Python` `Streamlit` `Scikit-learn` `Pandas` |
 | **[Multi Agent Research System](https://agentic-research-ai.streamlit.app/)** | Multi-Agent AI Research System for automated web research, information gathering, and intelligent report generation. | 'Python' 'LangChain' 'LangGraph' 'Streamlit' 'Multi-Agent AI' |
 | **[Internsip Recommendation System](https://github.com/Vaibhavd2602/internship-recommendation-system.git)** | Recommends relevant internship opportunities based on user skills, interests, and preferences using intelligent matching techniques. | Python Flask REST API SQLite HTML CSS JavaScript 
 | **[DSA Practice Repository](https://github.com/Vaibhavd2602/DSA_Leetcode)** | Collection of LeetCode and interview coding problems with optimized solutions. | `C++` `DSA` `Algorithms` |
